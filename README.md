@@ -1,17 +1,19 @@
-# KNOW ABOUT ME !
 <h1 align="center">Hi 👋, I'm Amarjeet</h1>
 <h3 align="center">A passionate about DSA & Web Development from India.</h3>
 
-- 🌱 I’m currently learning **DSA, JAVA, BACKEND DEVELOPMENT**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeetbtechcse&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeetbtechcse" /> </p>
+
+- 🌱 I’m currently learning **DSA, JAVA, BACKEND DEVELOPMENT,PYTHON**
 
 - 💬 Ask me about **DSA, JAVA, C, HTML, CSS, JAVASCRIPT, NODE.JS, PYTHON,BOOTSTRAP, LINKED-IN, GIT & GITHUB**
 
-- 📫 How to reach me **amarjeet.btechcse@gmail.com**
+- 📫 How to reach me **CONNECT WITH ME ON LINKEDIN**
 
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://x.com/amarjeet__0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/amarjeet__0000" height="30" width="40" /></a>
 <a href="https://instagram.com/amarjeet_0378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amarjeet_0378" height="30" width="40" /></a>
 </p>
 
