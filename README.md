@@ -24,7 +24,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Amarjeet__0000" height="30" width="40" />
   </a>
   <a href="https://monkeytype.com/profile/amarjeet_type" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/monkeytype.svg" alt="MonkeyType" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/58/MonkeyType_logo.svg" alt="MonkeyType" height="30" width="40" />
   </a>
 </p>
 
