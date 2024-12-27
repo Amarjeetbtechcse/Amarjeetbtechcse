@@ -21,6 +21,8 @@
 
 - **[To-Do List App](https://github.com/Amarjeetbtechcse/To-Do-List-App)**: A simple to-do list web app built with HTML, CSS, and JavaScript to help users organize their tasks effectively.
 
+- **[Simon Says Game](https://github.com/Amarjeetbtechcse/Simon-Says-Game)**: A fun interactive Simon Says game, developed using HTML, CSS, and JavaScript. This game tests memory skills by mimicking a sequence of colors and sounds that the player must repeat.
+
 > Explore more of my work on [GitHub](https://github.com/Amarjeetbtechcse) where I continuously improve my coding skills.
 
 ---
@@ -113,4 +115,3 @@ Check out some of my GitHub stats!
   </p>
 
 ---
-
