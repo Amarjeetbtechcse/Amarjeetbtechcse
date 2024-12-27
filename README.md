@@ -48,7 +48,7 @@ Let's build something great together! Reach out to me on these platforms:
   </a>
 </p>
 
-> For LinkedIn, please reach out to me directly for permission.
+> For LinkedIn, please reach out to me directly or dm me.
 
 ---
 
