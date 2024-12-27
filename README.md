@@ -1,4 +1,4 @@
-![Logo](https://github.com/Amarjeetbtechcse/Amarjeetbtechcse/blob/main/github-header-image%20(3).png)
+![Logo](https://github.com/Amarjeetbtechcse/Amarjeetbtechcse/blob/main/github-header-image%20(4).png)
 
 # Hi 👋, I'm Amarjeet
 ### A passionate Software Engineer | Web Developer | Tech Enthusiast from India
