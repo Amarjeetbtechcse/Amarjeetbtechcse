@@ -83,13 +83,3 @@ Let's collaborate or just say hi!
 - **Hindi**: Native  
 
 ---
-
-## ☕ Support My Work  
-
-If you like what I do, consider buying me a coffee:  
-
-<p>
-  <a href="YOUR_SUPPORT_LINK">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-</p>
