@@ -1,85 +1,36 @@
-![Header Image](https://github.com/Amarjeetbtechcse/Amarjeetbtechcse/blob/main/github-header-image%20(5).png)
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-# Hi there, I'm Amarjeet! 👋  
-### A Passionate Software Engineer | Web Developer | Tech Enthusiast from India  
+###
 
----
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<img align="right" alt="Coding" width="300" src="https://github.com/Amarjeetbtechcse/Amarjeetbtechcse/blob/main/75e7ef7aa27009befb076509382b86b8.gif">
+###
 
-- 🚀 **Transforming ideas into reality through code.**  
-- 💻 Skilled in **Frontend & Backend Development**.  
-- 🌱 Constantly learning and exploring new technologies.  
-- ✨ **Fun Fact**: Coding is my playground, and debugging is my puzzle game. 😄  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
----
+###
 
-## 🛠️ Technologies & Tools
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-</p>
-
----
-
-## 💼 Featured Projects
-
-Here are a few of my favorite projects:
-
-- 🎵 **[Spotify Clone](https://github.com/Amarjeetbtechcse/SPOTIFY-CLONE)**  
-  A fully functional music streaming platform clone using **HTML, CSS, JavaScript**.
-
-- ✅ **[To-Do List App](https://github.com/Amarjeetbtechcse/To-Do-List-App)**  
-  A web app to organize tasks efficiently using **HTML, CSS, JavaScript**.
-
-- 🕹️ **[Simon Says Game](https://github.com/Amarjeetbtechcse/Simon-Says-Game)**  
-  An interactive memory-testing game created with **HTML, CSS, JavaScript**.
-
-> Explore more on my [GitHub profile](https://github.com/Amarjeetbtechcse)!  
-
----
-
-## 🌐 Connect with Me
-
-Let's collaborate or just say hi!  
-
-<p align="left">
-  <a href="https://www.instagram.com/amarjeet_0378" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/Amarjeet__0000" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://monkeytype.com/profile/amarjeet_type" target="_blank">
-    <img src="https://img.shields.io/badge/MonkeyType-232323?style=for-the-badge&logo=readme&logoColor=white" alt="MonkeyType"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amarjeetbtechcse&show_icons=true&locale=en&theme=radical" alt="Amarjeet's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amarjeetbtechcse&theme=radical" alt="Amarjeet's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amarjeetbtechcse&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 🌍 Languages
-
-- **English**: Fluent  
-- **Hindi**: Native  
-
----
+###
