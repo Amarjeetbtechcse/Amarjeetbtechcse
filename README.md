@@ -73,19 +73,19 @@ REST APIs, JSON, OOP, MVC, Data Structures
 ### 🌐 Socials
 
 <a href="https://codepen.io/Amarjeet-the-decoder" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" alt="Codepen" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" alt="Codepen" width="120" height="120"/>
 </a>
 <a href="https://github.com/Amarjeetbtechcse" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="120" height="120"/>
 </a>
 <a href="https://gitlab.com/Amarjeetbtechcse" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" alt="GitLab" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" alt="GitLab" width="120" height="120"/>
 </a>
 <a href="https://linkedin.com/in/amarjeetbtechcse" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="120" height="120"/>
 </a>
 <a href="https://stackoverflow.com/users/30241858/amarjeet" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" alt="StackOverflow" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" alt="StackOverflow" width="120" height="120"/>
 </a>
 
 ---
