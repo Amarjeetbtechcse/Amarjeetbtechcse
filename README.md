@@ -17,11 +17,11 @@ With a goal-oriented mindset, I aim to:
 - Launch my own SaaS or AI-based startup  
 
 ### 🧠 Core Beliefs & Principles
-- 💡 Never stop learning – growth is a continuous process.  
-- 🛠️ Discipline and integrity – the foundation of my work ethic.  
-- 🧩 Solve with logic and patience – every challenge has a solution.  
-- 📚 Knowledge sharing – I believe in helping others grow.  
-- ⏳ Consistency over motivation – because progress comes from routine.  
+- 💡 Never stop learning – growth is a continuous process  
+- 🛠️ Discipline and integrity – the foundation of my work ethic  
+- 🧩 Solve with logic and patience – every challenge has a solution  
+- 📚 Knowledge sharing – I believe in helping others grow  
+- ⏳ Consistency over motivation – because progress comes from routine  
 
 ### 🎯 Current Mission
 - 🔁 Solving 500+ DSA problems  
@@ -61,22 +61,32 @@ REST APIs, JSON, OOP, MVC, Data Structures
 
 ### 📬 Let's Connect
 
-- 🌍 I'm based in **India**
-- 🖥️ Portfolio: [amarjeetsingh.com](http://amarjeetsingh.com)
-- ✉️ Email: [amarjeet.btechcse@gmail.com](mailto:amarjeet.btechcse@gmail.com)
-- 🚀 Currently working on: [My Full Stack Project](http://airbnb.com)
-- 🧠 Currently learning: Backend & Algorithms
-- 🤝 Open to collaborating on meaningful projects
+- 🌍 I'm based in **India**  
+- 🖥️ Portfolio: [amarjeetsingh.com](http://amarjeetsingh.com)  
+- ✉️ Email: [amarjeet.btechcse@gmail.com](mailto:amarjeet.btechcse@gmail.com)  
+- 🚀 Currently working on: [My Full Stack Project](http://airbnb.com)  
+- 🧠 Currently learning: Backend & Algorithms  
+- 🤝 Open to collaborating on meaningful projects  
 
 ---
 
 ### 🌐 Socials
 
-[![Codepen](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg)](https://codepen.io/Amarjeet-the-decoder)
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://github.com/Amarjeetbtechcse)
-[![GitLab](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg)](https://gitlab.com/Amarjeetbtechcse)
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://linkedin.com/in/amarjeetbtechcse)
-[![StackOverflow](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg)](https://stackoverflow.com/users/30241858/amarjeet)
+<a href="https://codepen.io/Amarjeet-the-decoder" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" alt="Codepen" width="30" height="30"/>
+</a>
+<a href="https://github.com/Amarjeetbtechcse" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="30" height="30"/>
+</a>
+<a href="https://gitlab.com/Amarjeetbtechcse" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" alt="GitLab" width="30" height="30"/>
+</a>
+<a href="https://linkedin.com/in/amarjeetbtechcse" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
+<a href="https://stackoverflow.com/users/30241858/amarjeet" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" alt="StackOverflow" width="30" height="30"/>
+</a>
 
 ---
 
@@ -87,4 +97,3 @@ REST APIs, JSON, OOP, MVC, Data Structures
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amarjeetbtechcse&stroke=facc15&background=1e3a8a&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true)  
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Amarjeetbtechcse&bg_color=1e3a8a&color=facc15&line=a855f7&point=facc15&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjeetbtechcse&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=a855f7&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20Languages)
-
