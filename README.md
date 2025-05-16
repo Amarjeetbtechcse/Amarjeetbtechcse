@@ -58,25 +58,6 @@ I'm a passionate developer from India focused on writing clean, efficient code a
 
 ---
 
-### 📬 Connect with Me
-
-<p align="center">
-  <a href="mailto:amarjeet.btechcse@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Amarjeetbtechcse" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amarjeet/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/amarjeet" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
-
----
-
 ### 🔭 Currently Working On  
 - Building **scalable MERN stack applications** with focus on best practices  
 - Deepening understanding of **system design concepts and patterns**
